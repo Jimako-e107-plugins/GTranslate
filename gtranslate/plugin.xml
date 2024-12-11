@@ -15,14 +15,21 @@
 	</adminLinks>
 	<pluginPrefs>
 		<pref name='widget_look'></pref>
+		<pref name='float_position'></pref>
+		<pref name='position'></pref>
 		<pref name='source_lang'></pref>
 		<pref name='target_lang'></pref>
+		<pref name='enable_cdn'>0</pref>
 		<pref name='url_structure'></pref>
-		<pref name='opt_color_scheme'></pref>
-		<pref name='opt_globe_size'></pref>
-		<pref name='opt_flag_size'></pref>
-		<pref name='opt_flag_styl'></pref>
-		<pref name='opt_alternative_flags'></pref>
-		<pref name='opt_float_position'></pref>
+		<pref name='select_language_label'></pref>
+		<pref name='native_language_names'>1</pref>
+		<pref name='detect_browser_language'>0</pref>
+		<pref name='color_scheme'></pref>
+		<pref name='globe_size'></pref>
+		<pref name='flag_size'></pref>
+		<pref name='flag_style'></pref>
+		<pref name='float_switcher_open_direction'></pref>
+		<pref name='switcher_open_direction'></pref>	
+		<pref name='alt_flags'></pref>			
 	</pluginPrefs>
 </e107Plugin>
