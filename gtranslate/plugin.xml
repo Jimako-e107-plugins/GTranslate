@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="GTranslate" lan="" version="1.0" date="2024-12-10" compatibility="2.0" installRequired="true" >
+	<author name="e107minimal" url="xx" />
+	<summary lan="">Translate AI Multilingual Solutions</summary>
+	<description lan="">Translate your website and make it multilingual.</description>
+	<keywords>
+		<word>language</word>
+		<word>content</word>
+		<word>gtranslate</word>
+	</keywords>
+	<category>tools</category>
+	<copyright>Copyright 2010 - 2022 GTransla</copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="images/gt_logo.svg" iconSmall="images/gt_logo.svg" icon128="images/gt_logo.svg" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	<pluginPrefs>
+		<pref name='widget_look'></pref>
+		<pref name='source_lang'></pref>
+		<pref name='target_lang'></pref>
+		<pref name='url_structure'></pref>
+		<pref name='opt_color_scheme'></pref>
+		<pref name='opt_globe_size'></pref>
+		<pref name='opt_flag_size'></pref>
+		<pref name='opt_flag_styl'></pref>
+		<pref name='opt_alternative_flags'></pref>
+		<pref name='opt_float_position'></pref>
+	</pluginPrefs>
+</e107Plugin>
