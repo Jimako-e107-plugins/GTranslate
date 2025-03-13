@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e107Plugin name="GTranslate" lan="" version="1.0" date="2024-12-10" compatibility="2.0" installRequired="true" >
-	<author name="e107minimal" url="xx" />
+<e107Plugin name="GTranslate" lan="" version="1.1" date="2025-03-13" compatibility="2.3" installRequired="true" >
+	<author name="Jimako" url="https://www.e107sk.com/" />
 	<summary lan="">Translate AI Multilingual Solutions</summary>
-	<description lan="">Translate your website and make it multilingual.</description>
+	<description lan="">Translate your website and make it multilingual</description>
 	<keywords>
 		<word>language</word>
 		<word>content</word>
 		<word>gtranslate</word>
 	</keywords>
 	<category>tools</category>
-	<copyright>Copyright 2010 - 2022 GTransla</copyright>
+	<copyright>Copyright 2010 - 2025 GTranslate</copyright>
 	<adminLinks>
 		<link url="admin_config.php" description="" icon="images/gt_logo.svg" iconSmall="images/gt_logo.svg" icon128="images/gt_logo.svg" primary="true" >LAN_CONFIGURE</link>
 	</adminLinks>
@@ -19,7 +19,7 @@
 		<pref name='position'></pref>
 		<pref name='source_lang'></pref>
 		<pref name='target_lang'></pref>
-		<pref name='enable_cdn'>0</pref>
+		<pref name='enable_cdn'>1</pref>
 		<pref name='url_structure'></pref>
 		<pref name='select_language_label'></pref>
 		<pref name='native_language_names'>1</pref>
